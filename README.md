@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Pranavi Bannela</h1>
 
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavibannela&label=Profile%20views&color=0e75b6&style=flat" alt="pranavibannela" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavibannela" alt="pranavibannela" /></a> </p>
 
-- 📫 How to reach me **pranavibannela@gmail.com**
+- 📫 How to reach me **pranavibannela7@gmail.com**
 
 - ⚡ Fun fact **I'm short**
 
